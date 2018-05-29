@@ -1239,5 +1239,10 @@
             "lastMessageLqi":{"id":284,"type":"uint8"},
             "lastMessageRssi":{"id":285,"type":"int8"}},
         "cmd":null,
-        "cmdRsp":null}
+        "cmdRsp":null},
+    "lightLink": {
+        "attrId":{},
+        "cmd":{"scanReq":0},
+        "cmdRsp":{"scanRsp":1}
+    }
 }
